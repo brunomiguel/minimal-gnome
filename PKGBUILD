@@ -2,8 +2,8 @@
 
 pkgname=gnome-minimal
 pkgdesc="A minimal Gnome installation"
-pkgver='0.0.1'
-pkgrel=2
+pkgver=0.0.1
+pkgrel=3
 
 url='https://github.com/brunomiguel/minimal-gnome'
 arch=('any')
