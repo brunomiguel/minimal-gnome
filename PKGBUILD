@@ -1,9 +1,9 @@
 # Maintainer: Bruno Miguel <https://twitter.com/brunomiguel>
 
-pkgname='gnome-minimal'
+pkgname=gnome-minimal
 pkgdesc="A minimal Gnome installation"
 pkgver='0.0.1'
-pkgrel=1
+pkgrel=2
 
 url='https://github.com/brunomiguel/minimal-gnome'
 arch=('any')
