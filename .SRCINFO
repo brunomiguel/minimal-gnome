@@ -1,7 +1,7 @@
 pkgbase = minimal-gnome
 	pkgdesc = A minimal Gnome installation
 	pkgver = 0.0.2
-	pkgrel = 1
+	pkgrel = 2
 	url = https://github.com/brunomiguel/minimal-gnome
 	arch = any
 	license = GPL3
@@ -18,10 +18,7 @@ pkgbase = minimal-gnome
 	depends = file-roller
 	depends = evince
 	depends = gnome-system-monitor
-	depends = totem
 	depends = epiphany
 	depends = dconf-editor
-	depends = gnome-podcasts
-	depends = lollypop
 
 pkgname = minimal-gnome
