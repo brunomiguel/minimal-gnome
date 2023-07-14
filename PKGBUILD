@@ -11,6 +11,6 @@ license=('GPL3')
 
 depends=(
 	# gnome (somewhat minimal. requires chaotic-aur)
-	'gnome-shell' 'nautilus-performance' 'gnome-terminal' 'gedit' 'gedit-plugins' 'gnome-tweak-tool' 'gnome-control-center' 'xdg-user-dirs' 'eog' 'eog-plugins' 'file-roller' 'evince' 'gnome-system-monitor' 'epiphany' 'dconf-editor'
+	'gnome-shell' 'nautilus' 'mutter-performance' 'gnome-terminal' 'gedit' 'gedit-plugins' 'gnome-tweak-tool' 'gnome-control-center' 'xdg-user-dirs' 'eog' 'eog-plugins' 'file-roller' 'evince' 'gnome-system-monitor' 'epiphany' 'dconf-editor'
 )
 
