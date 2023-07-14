@@ -1,12 +1,12 @@
 pkgbase = minimal-gnome
 	pkgdesc = A minimal Gnome installation
-	pkgver = 0.0.2
-	pkgrel = 2
+	pkgver = 0.0.3
+	pkgrel = 1
 	url = https://github.com/brunomiguel/minimal-gnome
 	arch = any
 	license = GPL3
 	depends = gnome-shell
-	depends = nautilus
+	depends = nautilus-performance
 	depends = gnome-terminal
 	depends = gedit
 	depends = gedit-plugins
